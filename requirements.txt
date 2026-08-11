@@ -1,0 +1,26 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+xarray
+netCDF4
+h5netcdf
+matplotlib
+
+# Machine learning / deep learning
+scikit-learn
+xgboost
+torch
+
+# Model persistence
+joblib
+
+# Feature attribution (15_SHAP.py)
+shap
+
+# Spatial analysis (05-06_Spatial_Split.py, 07_GHM_Benchmark.py, Figure*.py)
+geopandas
+shapely
+
+# Progress bars
+tqdm

@@ -203,6 +203,12 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Data, figures, and trained models are not tracked in git (large / regenerable).
+# See README.md for how to obtain the raw inputs and reproduce these directories.
+/data/
+/figures/
+/models/
+
 # Ruff stuff:
 .ruff_cache/
 
