@@ -18,9 +18,12 @@ joblib
 # Feature attribution (15_SHAP.py)
 shap
 
-# Spatial analysis (05-06_Spatial_Split.py, 07_GHM_Benchmark.py, Figure*.py)
+# Spatial analysis (03_SpatialSplit_PUB_PUR.py, 04_GHM_Benchmark.py, 05_GHM_LeakageMatch.py, Figure*.py)
 geopandas
 shapely
 
 # Progress bars
 tqdm
+
+# Figure-label placement (FigureS4_GHM_Leakage_Analysis.py)
+adjustText
